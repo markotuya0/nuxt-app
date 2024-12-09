@@ -1,4 +1,15 @@
-# Nuxt Minimal Starter
+# Nuxt Minimal App
+
+Features
+Home Page: A welcoming page with general information.
+About Page: Details about the app and its purpose.
+User Page: A list of users with links to their profiles.
+User Bio Page: Individual user profiles displaying detailed information.
+Prerequisites
+Ensure you have the following installed before proceeding:
+
+Node.js: Version 16 or later (check with node -v).
+Package Manager: npm, pnpm, yarn, or bun.
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
